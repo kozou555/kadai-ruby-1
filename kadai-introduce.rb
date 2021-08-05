@@ -7,6 +7,6 @@ fullname = firstname + lastname
 #　年齢
 age = '23'
 
-puts '私の名前は' + fullname + 'です。' +  age.to_s + '歳です。'
+puts fullname + 'です。' +  age.to_s + '歳です。'
 
 
