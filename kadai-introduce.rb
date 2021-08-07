@@ -2,8 +2,6 @@
 firstname = '羽賀'
 # 　名前
 lastname ='和也'
-#　フルネーム
-fullname = firstname + lastname
 #　年齢
 age = '23'
 
